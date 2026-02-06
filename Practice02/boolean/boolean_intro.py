@@ -1,3 +1,3 @@
-a = int(input)
-b = int(input)
-print(a + b)
+print(bool("abc"))
+print(bool(123))
+print(bool(["apple", "cherry", "banana"]))
