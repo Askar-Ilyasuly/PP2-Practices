@@ -1,2 +1,3 @@
-a = int(input())
-print(f"hello {a}")
+number = 15
+if number > 0:
+  print("The number is positive")
